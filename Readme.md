@@ -1,4 +1,4 @@
-# Simple-Virtual-Calculator
+# Simple-Calculator
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codinglinhtinh/Simple-Virtual-Calculator?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/codinglinhtinh/Simple-Virtual-Calculator?style=for-the-badge)
@@ -17,8 +17,8 @@
     ⭐<a href='https://jupyter.org/install'>Link cài Jupyter lab</a>
 
 
-## 📫 Contributing to Cookies-Auto-Clicking-Bot
-Để đóng góp Simple-Virtual-Calculator hãy làm theo các bước sau:
+## 📫 Contributing to Simple-Calculator
+Để đóng góp Simple-Calculator hãy làm theo các bước sau:
 
     >1. Fork kho lưu trữ này.
     >2. Tạo một nhánh: `git checkout -b <branch_name>`.
